@@ -1,3 +1,5 @@
-### Hi there 👋
+### Hi there, I’m Joe, a software developer 👋
 
-I'm Joe, a full stack software developer with experience in PHP/Laravel, Java/Spring, React and Vue.js.
+My interests lie in modelling complex domains, TDD and testing, agile principles/practices, and continuous delivery.
+
+I’m currently working principally with TypeScript, and dabbling with Go in my spare time.
